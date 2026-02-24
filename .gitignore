@@ -21,3 +21,9 @@ Thumbs.db
 
 # Логи
 *.log
+
+# Тестовые отчёты
+*.coverage
+coverage.xml
+htmlcov/
+.pytest_cache/
